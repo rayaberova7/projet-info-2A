@@ -55,7 +55,7 @@ format: revealjs
   - Pas d'installation locale
   - Accès aux outils professionnels
   - Environnement reproductible pour tous
-- Démonstration 🔍
+- Démonstration 🔍 https://onyxia.lab.groupe-genes.fr/
 
 ---
 
