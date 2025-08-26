@@ -1,7 +1,7 @@
 ---
 title: "TP1 Projet Informatique 2A - Introduction"
 author: "Raya Berova"
-date: "29 août 2025"
+date: "29/08/2025"
 format: revealjs
 ---
 
@@ -94,12 +94,26 @@ format: revealjs
 
 # Git
 
-- Gestion de version pour vos projets
-- Concepts clés :
-  - `git add` → préparer les modifications
-  - `git commit` → sauvegarder les changements localement
-  - `git push` → envoyer sur le dépôt distant
-- Branches et collaboration
+- Gestion de versions (historique)
+- Travailler à plusieurs sur un projet
+- Synchroniser son travail avec une plateforme distante
+-> Indispensable pour le travail collaboratif et reproductible 
+
+---
+
+## Concepts clés
+
+- `git add` → préparer les modifications
+- `git commit` → sauvegarder les changements localement
+- `git push` → envoyer sur le dépôt distant
+
+- Le concept des branches
+---
+
+## Git en pratique
+
+- Créer un compte GitHub
+- Créer un dépot Git
 - Démonstration 🔍 
 
 ---
