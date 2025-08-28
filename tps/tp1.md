@@ -40,10 +40,10 @@ css: ../custom.css
 
 # Onyxia
 
-- Plateforme cloud pour lancer des environnements R, Python, etc.
+- Plateforme cloud pour lancer des environnements R, Python, etc. (comme Google Cloud)
 - Avantages :
   - Pas d'installation locale
-  - Accès aux outils professionnels
+  - Accès à des ressources importantes (CPU, RAM...)
   - Environnement reproductible pour tous
 - Démonstration 🔍 https://onyxia.lab.groupe-genes.fr/
 
