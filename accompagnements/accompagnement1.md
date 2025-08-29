@@ -47,7 +47,7 @@ css: ../custom.css
 
 # Deadlines
 
-- 5 octobre : Dossier d’analyse
+- 27 septembre : Dossier d’analyse
 - 23 novembre : Rapport final + code
 - 12 décembre : Soutenance
 
@@ -57,7 +57,7 @@ css: ../custom.css
 
 - Compréhension du besoin
 - Planning (diagramme de Gantt)
-- Diagrammes UML (cas d’utilisation, classe…)
+- Diagrammes UML (cas d’utilisation, classe…) https://app.diagrams.net/
 
 --- 
 
