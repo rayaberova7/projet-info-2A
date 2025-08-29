@@ -45,7 +45,7 @@ css: ../custom.css
   - Pas d'installation locale
   - Accès à des ressources importantes (CPU, RAM...)
   - Environnement reproductible pour tous
-- Démonstration 🔍 https://onyxia.lab.groupe-genes.fr/
+- Démonstration 🔍 https://datalab.sspcloud.fr/ (création de compte avec firstname.lastname@eleve.ensai.fr)
 
 ---
 
@@ -107,6 +107,8 @@ Chacun travaille de son côté puis le code est mis en commun
 - README.md
 - .gitignore
 - Commandes terminal `cd` et `ls`
+- Fichiers .md pour les notes
+- Issues git
 
 ---
 

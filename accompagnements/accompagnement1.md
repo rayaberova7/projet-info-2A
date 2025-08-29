@@ -59,6 +59,23 @@ css: ../custom.css
 - Planning (diagramme de Gantt)
 - Diagrammes UML (cas d’utilisation, classe…)
 
+--- 
+
+# Diagramme de Gantt
+
+Possibilité de le faire sur CANVA
+
+- Code 
+- Vacances
+- Gestion des bases de données
+- Classes
+- Tests unitaires
+- Documentation du code
+- Rédaction du rapport
+- Soutenance
+- Dossier d'analyse
+- Immersion (3j intensifs sur le projet info)
+
 ---
 
 # Shotgun
