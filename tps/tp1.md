@@ -96,7 +96,7 @@ Chacun travaille de son côté puis le code est mis en commun
 - `git branch <nom de la branche>` → créer la branche en copiant la main
 - `git checkout <nom de la branche>` → se mettre sur la branche pour développer
 - `git push -u origin <nom de la branche>` → envoyer la branche sur le dépôt distant
-- `git merge --strategy-option=theirs <nom de la branche>` → fusionner la main avec la branche
+- `git checkout main` + `git pull` + `git merge --strategy-option=theirs <nom de la branche>` → fusionner la main avec la branche
 
 - Démonstration 🔍
 
