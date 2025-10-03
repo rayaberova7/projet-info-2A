@@ -3,6 +3,7 @@
 
 ## Créer la clé et la stocker
 
+0. Créer un compte
 1. Aller sur le site brevo.com
 2. Paramètres
 3. SMTP et API
